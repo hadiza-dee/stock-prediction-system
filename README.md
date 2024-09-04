@@ -5,7 +5,7 @@ In this project, we utilize a variety of machine learning techniques to build a 
 
 Features
 Data Preprocessing: Clean and preprocess historical stock data to make it suitable for model training.
-Building Model: the predictive model is built using LSTM
+Building Model: the predictive model is built using LSTM.
 Model Training: Train the predictive model using Tesla stock data.
 Model Testing: Evaluate the model's performance on Nvidia stock data.
 Visualization: Generate plots to visualize stock trends, model predictions, and performance metrics.
