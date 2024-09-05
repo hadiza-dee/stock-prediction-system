@@ -1,4 +1,4 @@
-# stock-prediction-system
+# stock-price-prediction-system
 Stock price prediction is a challenging yet intriguing area of finance, where machine learning models are employed to forecast future stock prices based on historical data. Accurate predictions can provide valuable insights for investors and traders, helping them make informed decisions.
 
 In this project, we utilize a variety of machine learning techniques to build a predictive model. The model is trained using the historical stock data of Tesla, Inc. (TSLA) (2010 - 2017) and then tested on the stock data of Nvidia Corporation (NVDA) (2019 - 2024) . The goal is to evaluate how well the model generalizes to different stocks.
